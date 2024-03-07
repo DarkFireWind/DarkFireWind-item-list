@@ -7837,25 +7837,25 @@
       "price": -10
     },
     {
-      "abr": "prefabbox",
+      "abr": "prefabbox(basic)",
       "category": "Prefab structures",
       "defname": "AP_Prefab_LowValue",
       "price": 1000
     },
     {
-      "abr": "prefabbox",
+      "abr": "prefabbox(intermediate)",
       "category": "Prefab structures",
       "defname": "AP_Prefab",
       "price": 2500
     },
     {
-      "abr": "prefabbox",
+      "abr": "prefabbox(advanced)",
       "category": "Prefab structures",
       "defname": "AP_Prefab_MediumHighValue",
       "price": 5000
     },
     {
-      "abr": "prefabbox",
+      "abr": "prefabbox(ultra-elite)",
       "category": "Prefab structures",
       "defname": "AP_Prefab_HighValue",
       "price": 12500
